@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @DagyOE
-- 👀 I’m interested in Desktop App, Game development
-- 🌱 I’m currently learning Python, Javascript
+- 🌱 I'm currently black magic wizard
